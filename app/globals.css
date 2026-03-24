@@ -170,8 +170,13 @@
 
   .premium-button-outline {
     @apply relative px-8 py-3 font-semibold rounded-lg transition-all duration-300;
-    @apply border border-[#c700ff] text-[#c700ff];
-    @apply hover:bg-[rgba(199,0,255,0.1)] hover:shadow-lg hover:shadow-[#c700ff]/20;
+    @apply border border-[#c700ff] text-white;
+    @apply hover:bg-[rgba(199,0,255,0.15)] hover:shadow-lg hover:shadow-[#c700ff]/20;
     @apply active:scale-95;
+  }
+
+  .premium-button-outline * {
+    @apply text-white;
+    color: white !important;
   }
 }
