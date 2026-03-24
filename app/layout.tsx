@@ -19,25 +19,12 @@ const _playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: 'Grubby Coin Block - Revolutionary Ethereum Token',
-  description: 'Grubby Coin Block (GCB) - A revolutionary token on Ethereum integrating NFTs, music, apparel, and multiple business ventures. Join our ecosystem today.',
+  title: 'Grubby Coin Block - Revolutionary Solana Token',
+  description: 'Grubby Coin Block (GCB) - A revolutionary token on Solana integrating NFTs, music, apparel, and multiple business ventures.',
   generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/favicon.ico',
+    apple: '/favicon.ico',
   },
 }
 
