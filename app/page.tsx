@@ -277,7 +277,7 @@ export default function Home() {
           </div>
 
           <div className="text-center mb-16">
-            <h3 className="text-4xl font-bold font-heading mb-8">10 Business Ventures</h3>
+            <h3 className="text-4xl font-bold font-heading mb-8">Business Ventures Portfolio</h3>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
@@ -307,13 +307,13 @@ export default function Home() {
             </div>
 
             <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
-              <h4 className="text-xl font-bold text-[#c700ff] mb-4">6. Lithium Battery Company</h4>
-              <p className="text-gray-300 text-sm font-light">GCB contributes to clean energy innovation. Token holders participate in eco-friendly initiatives and exclusive partnerships.</p>
+              <h4 className="text-xl font-bold text-[#c700ff] mb-4">6. Floor Wax & Chemical Stripper Company</h4>
+              <p className="text-gray-300 text-sm font-light">Funds develop manufacturing and distribution of professional floor wax, sealers, and chemical strippers for floor refinishing. Provides complete floor restoration solutions. Locations in development - USA and potential international expansion.</p>
             </div>
 
             <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
               <h4 className="text-xl font-bold text-[#c700ff] mb-4">7. Cotton Farm & Cotton Gin</h4>
-              <p className="text-gray-300 text-sm font-light">Funds develop sustainable cotton farming operations and processing infrastructure with potential for future textile manufacturing.</p>
+              <p className="text-gray-300 text-sm font-light">Funds develop sustainable cotton farming operations and processing infrastructure with potential for future textile manufacturing. Locations under construction.</p>
             </div>
 
             <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
@@ -323,12 +323,32 @@ export default function Home() {
 
             <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
               <h4 className="text-xl font-bold text-[#c700ff] mb-4">9. Cell Phone & Laptop Company</h4>
-              <p className="text-gray-300 text-sm font-light">Funds establish mobile phone sales and distribution, with expansion into technology development including custom electronics and microchips.</p>
+              <p className="text-gray-300 text-sm font-light">Funds establish mobile phone sales and distribution, with expansion into technology development including custom electronics and microchips. Investment: $50,000. Locations under development.</p>
             </div>
 
             <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
-              <h4 className="text-xl font-bold text-[#c700ff] mb-4">10. Lithium Mining & Refinery</h4>
-              <p className="text-gray-300 text-sm font-light">Funds support lithium exploration, extraction, and refining. Supports growing demand for lithium in electronics, EVs, and energy storage.</p>
+              <h4 className="text-xl font-bold text-[#c700ff] mb-4">10. Lithium Operations & Clean Energy</h4>
+              <p className="text-gray-300 text-sm font-light">Comprehensive lithium business combining battery manufacturing and mining/refining operations. Supports growing demand for lithium in electronics, EVs, and energy storage. Token holders participate in clean energy initiatives.</p>
+            </div>
+
+            <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
+              <h4 className="text-xl font-bold text-[#c700ff] mb-4">11. Cannabis Facility</h4>
+              <p className="text-gray-300 text-sm font-light">Funds support cultivation, distribution, and retail operations for cannabis products. Full-service facility combining growing, wholesale distribution, and retail consumer access. Locations under development with pricing details coming as we progress.</p>
+            </div>
+
+            <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
+              <h4 className="text-xl font-bold text-[#c700ff] mb-4">12. Storage Facility & Apartment Complexes</h4>
+              <p className="text-gray-300 text-sm font-light">Real estate development for self-storage facilities and residential apartment complexes. Diversified property portfolio generating recurring revenue. Locations under development with pricing details to follow.</p>
+            </div>
+
+            <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
+              <h4 className="text-xl font-bold text-[#c700ff] mb-4">13. Metal & Aluminum Recycling Plant</h4>
+              <p className="text-gray-300 text-sm font-light">Funds establish industrial recycling operations for aluminum and ferrous metals. Sustainable business model supporting environmental responsibility. Locations under development with pricing details coming soon.</p>
+            </div>
+
+            <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
+              <h4 className="text-xl font-bold text-[#c700ff] mb-4">14. Trash & Waste Management Company</h4>
+              <p className="text-gray-300 text-sm font-light">Comprehensive waste disposal and trash management services. All ventures will be established as LLC and S/C corporations at time of funding. Locations under development with pricing details to follow.</p>
             </div>
           </div>
 
@@ -507,11 +527,11 @@ const faqs = [
   },
   {
     question: 'What business ventures are included in the whitepaper?',
-    answer: 'Our ventures include: NFT creation and trading, music album production (Sporadic Practice), apparel company, pizza and submarine sandwich shop, tile refinishing services, lithium battery manufacturing, cotton farming, arcade game development, cell phone and laptop company, and lithium mining operations. Each venture creates employment opportunities and is being built from the ground up.'
+    answer: 'Our portfolio includes 14 major ventures: NFT creation and trading, music album production, apparel printing company, pizza and submarine sandwich shop, tile and surface refinishing, floor wax and chemical stripper manufacturing, cotton farming and cotton gin, arcade game development, cell phone and laptop company, lithium operations (battery manufacturing and mining/refining), cannabis facility (cultivation/distribution/retail), storage facilities and apartment complexes, metal and aluminum recycling plant, and trash waste management company. Each venture creates employment opportunities and is being built from the ground up.'
   },
   {
     question: 'What is the cost structure for your ventures?',
-    answer: 'The Cell Phone & Laptop Company requires an estimated investment of $50,000. The Cotton Farm and other ventures have their own cost structures (details for Cotton Farm and additional locations coming soon - currently listed as Under Construction). Token holders benefit from equity-like exposure to these diverse revenue streams.'
+    answer: 'The Cell Phone & Laptop Company requires an estimated investment of $50,000. For most ventures including cannabis facility, storage facilities, apartment complexes, recycling plant, waste management, and floor wax manufacturing, pricing and location details are being finalized and will be shared as funding progresses. All LLC and S/C corporations will be established at the time of funding. Token holders benefit from equity-like exposure to these diverse revenue streams.'
   },
   {
     question: 'Are there job opportunities in these ventures?',
