@@ -44,7 +44,7 @@ export default function Home() {
 
       {/* Hero Section */}
       <section 
-        className="border-b border-[rgba(199,0,255,0.2)] relative overflow-hidden"
+        className="border-b border-[rgba(199,0,255,0.2)] relative overflow-hidden hero-section"
         style={{
           backgroundImage: 'url(/gcb-coin.png)',
           backgroundPosition: 'right center',
