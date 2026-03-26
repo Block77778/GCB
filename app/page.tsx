@@ -94,16 +94,10 @@ export default function Home() {
               I created my Grubby Coin with positivity and creativity in mind. It's a unique digital asset in its own right, and a cool coin to have. The concept behind Grubby Coin Block is simple yet powerful: to create a community-driven token that supports multiple innovative ventures.
             </p>
             <p>
-              Alongside promoting my Grubby Coin and NFTs, I'm excited to share my album "Sporadic Practice" – an instrumental Hip Hop/Jazz collection with sound bites and samples from the 80s, 90s, and 2000s. This album represents my passion for music and creative expression.
-            </p>
-            <p>
               By purchasing a Grubby Coin, you are directly supporting this venture and all the amazing projects outlined in our whitepaper. Whether it's NFTs, music, apparel, food services, or our various technological initiatives, every token holder becomes part of a larger ecosystem that creates meaningful opportunities and jobs for people throughout our community.
             </p>
             <p>
               All of the business ventures outlined in our whitepaper are being built from scratch as startups, with the mission to not only establish successful enterprises but to generate employment opportunities for dedicated team members and community members alike. We're committed to sustainable growth that benefits everyone involved.
-            </p>
-            <p>
-              The journey has been incredible so far, and I'm thrilled to have the opportunity to share my vision with you. Join me as we build something truly special together in the world of cryptocurrency and digital innovation.
             </p>
           </div>
         </div>
