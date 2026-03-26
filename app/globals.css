@@ -1,6 +1,8 @@
 @import 'tailwindcss';
 @import 'tw-animate-css';
 
+/* v0 rebuild trigger */
+
 @custom-variant dark (&:is(.dark *));
 
 :root {
@@ -178,5 +180,14 @@
   .premium-button-outline * {
     @apply text-white;
     color: white !important;
+  }
+
+  /* Mobile responsive hero background */
+  @media (max-width: 768px) {
+    .hero-section {
+      background-size: cover !important;
+      background-position: center !important;
+      background-attachment: scroll !important;
+    }
   }
 }
