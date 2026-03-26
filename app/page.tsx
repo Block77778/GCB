@@ -350,6 +350,16 @@ export default function Home() {
               <h4 className="text-xl font-bold text-[#c700ff] mb-4">14. Trash & Waste Management Company</h4>
               <p className="text-gray-300 text-sm font-light">Comprehensive waste disposal and trash management services. All ventures will be established as LLC and S/C corporations at time of funding. Locations under development with pricing details to follow.</p>
             </div>
+
+            <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
+              <h4 className="text-xl font-bold text-[#c700ff] mb-4">15. Landscaping & Power Washing Services</h4>
+              <p className="text-gray-300 text-sm font-light">Comprehensive landscaping and power washing services with focus on federal government contracts. Funds support equipment acquisition and operational expansion. Services include commercial and residential landscaping, power washing, and specialized federal contract work. Equipment and locations under development with pricing details coming as we progress.</p>
+            </div>
+          </div>
+
+          <div className="text-center mb-16">
+            <h3 className="text-3xl font-bold font-heading mb-8">Tokenomics Breakdown</h3>
+          </div>
           </div>
 
           <div className="text-center">
@@ -527,7 +537,7 @@ const faqs = [
   },
   {
     question: 'What business ventures are included in the whitepaper?',
-    answer: 'Our portfolio includes 14 major ventures: NFT creation and trading, music album production, apparel printing company, pizza and submarine sandwich shop, tile and surface refinishing, floor wax and chemical stripper manufacturing, cotton farming and cotton gin, arcade game development, cell phone and laptop company, lithium operations (battery manufacturing and mining/refining), cannabis facility (cultivation/distribution/retail), storage facilities and apartment complexes, metal and aluminum recycling plant, and trash waste management company. Each venture creates employment opportunities and is being built from the ground up.'
+    answer: 'Our portfolio includes 15 major ventures: NFT creation and trading, music album production, apparel printing company, pizza and submarine sandwich shop, tile and surface refinishing, floor wax and chemical stripper manufacturing, cotton farming and cotton gin, arcade game development, cell phone and laptop company, lithium operations (battery manufacturing and mining/refining), cannabis facility (cultivation/distribution/retail), storage facilities and apartment complexes, metal and aluminum recycling plant, trash waste management company, and landscaping with power washing services (including federal government contracts). Each venture creates employment opportunities and is being built from the ground up.'
   },
   {
     question: 'What is the cost structure for your ventures?',
