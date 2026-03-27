@@ -331,8 +331,8 @@ export default function Home() {
             </div>
 
             <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
-              <h4 className="text-xl font-bold text-[#c700ff] mb-4">12. Storage Facility & Apartment Complexes</h4>
-              <p className="text-gray-300 text-sm font-light">Real estate development for self-storage facilities and residential apartment complexes. Diversified property portfolio generating recurring revenue. Locations under development with pricing details to follow.</p>
+              <h4 className="text-xl font-bold text-[#c700ff] mb-4">12. Storage Facility, Moving Services & Apartment Complexes</h4>
+              <p className="text-gray-300 text-sm font-light">Real estate development for self-storage facilities and residential apartment complexes combined with Grubby's Moving services. Full-service moving and storage solutions providing residential and commercial relocation services. Diversified property portfolio generating recurring revenue. Locations under development with pricing details to follow.</p>
             </div>
 
             <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
@@ -348,6 +348,11 @@ export default function Home() {
             <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
               <h4 className="text-xl font-bold text-[#c700ff] mb-4">15. Landscaping & Power Washing Services</h4>
               <p className="text-gray-300 text-sm font-light">Comprehensive landscaping and power washing services with focus on federal government contracts. Funds support equipment acquisition and operational expansion. Services include commercial and residential landscaping, power washing, and specialized federal contract work. Equipment and locations under development with pricing details coming as we progress.</p>
+            </div>
+
+            <div className="glass-effect rounded-xl p-8 border border-[rgba(199,0,255,0.3)] hover:glass-effect-strong transition-all duration-300">
+              <h4 className="text-xl font-bold text-[#c700ff] mb-4">16. Full Service Automotive Shop</h4>
+              <p className="text-gray-300 text-sm font-light">Complete automotive repair and maintenance services including engine work, transmission service, brake systems, electrical repairs, tire services, and general maintenance. State-of-the-art diagnostic equipment and experienced technicians. Locations under development with pricing details and equipment requirements coming as we progress.</p>
             </div>
           </div>
 
@@ -539,7 +544,7 @@ const faqs = [
   },
   {
     question: 'What business ventures are included in the whitepaper?',
-    answer: 'Our portfolio includes 15 major ventures: NFT creation and trading, music album production, apparel printing company, pizza and submarine sandwich shop, tile and surface refinishing, floor wax and chemical stripper manufacturing, cotton farming and cotton gin, arcade game development, cell phone and laptop company, lithium operations (battery manufacturing and mining/refining), cannabis facility (cultivation/distribution/retail), storage facilities and apartment complexes, metal and aluminum recycling plant, trash waste management company, and landscaping with power washing services (including federal government contracts). Each venture creates employment opportunities and is being built from the ground up.'
+    answer: 'Our portfolio includes 16 major ventures: NFT creation and trading, music album production, apparel printing company, pizza and submarine sandwich shop, tile and surface refinishing, floor wax and chemical stripper manufacturing, cotton farming and cotton gin, arcade game development, cell phone and laptop company, lithium operations (battery manufacturing and mining/refining), cannabis facility (cultivation/distribution/retail), storage facilities with moving services and apartment complexes, metal and aluminum recycling plant, trash waste management company, landscaping with power washing services (including federal government contracts), and full service automotive shop. Each venture creates employment opportunities and is being built from the ground up.'
   },
   {
     question: 'What is the cost structure for your ventures?',
