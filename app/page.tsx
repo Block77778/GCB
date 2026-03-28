@@ -444,13 +444,14 @@ export default function Home() {
 
           <div className="border-t border-[rgba(199,0,255,0.2)] pt-12">
             <div className="text-center mb-12 flex justify-center">
-              <div className="w-32 h-32">
+              <div className="w-20 h-20">
                 <img 
-                  src="/gcb-coin.png" 
-                  alt="Grubby Coin Block" 
+                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Grubb%27s%2006-ofM0a1cDO7GLt5HUrgvsgVRUngfXzn.png" 
+                  alt="Grubby Block Biking Trails" 
                   className="w-full h-full object-contain filter drop-shadow-lg"
                 />
               </div>
+            </div>
             </div>
             <div className="text-center mb-8 p-6 glass-effect rounded-xl border border-[rgba(199,0,255,0.3)]">
               <p className="text-xs text-gray-400 leading-relaxed">
