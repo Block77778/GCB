@@ -452,7 +452,6 @@ export default function Home() {
                 />
               </div>
             </div>
-            </div>
             <div className="text-center mb-8 p-6 glass-effect rounded-xl border border-[rgba(199,0,255,0.3)]">
               <p className="text-xs text-gray-400 leading-relaxed">
                 <strong className="text-white">Disclaimer:</strong> GCB is a utility token designed for use within the ecosystem. While every effort has been made to ensure accuracy and reliability, users are encouraged to conduct their own research. Investing in digital assets carries inherent risks.
