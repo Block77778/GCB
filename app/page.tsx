@@ -71,8 +71,13 @@ export default function Home() {
             </div>
 
             <div className="flex flex-col sm:flex-row gap-5">
-              <Button className="premium-button shadow-lg">
-                Buy GCB Now
+              <Button 
+                className="premium-button shadow-lg"
+                asChild
+              >
+                <a href="https://raydium.io/swap/?inputMint=sol&outputMint=DTB6kZTj3NbD2jQPSryznxZyUbCsCGjSHqxodEgKEaQu" target="_blank" rel="noopener noreferrer">
+                  Buy GCB Now
+                </a>
               </Button>
               <Button className="premium-button-outline text-white">
                 Stake Your Grubby
